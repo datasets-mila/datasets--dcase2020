@@ -1,3 +1,6 @@
 .nfs*
+*.jugdata/
+/.tmp/
+/logs/
 /dev/
 /eval/
